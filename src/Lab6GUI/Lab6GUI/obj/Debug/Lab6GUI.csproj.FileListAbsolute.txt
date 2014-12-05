@@ -1,0 +1,9 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\bin\Debug\Lab6GUI.exe.config
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\obj\Debug\Lab6GUI.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\obj\Debug\Lab6GUI.Form1.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\obj\Debug\Lab6GUI.Properties.Resources.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\obj\Debug\Lab6GUI.csproj.GenerateResource.Cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\bin\Debug\Lab6GUI.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\bin\Debug\Lab6GUI.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\obj\Debug\Lab6GUI.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\Lab6GUI\Lab6GUI\obj\Debug\Lab6GUI.pdb
