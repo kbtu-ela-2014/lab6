@@ -1,0 +1,8 @@
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.csprojResolveAssemblyReference.cache
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.exe.config
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.exe
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\CalculatorServer.pdb
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\ClassLibrary1.dll
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\bin\Debug\ClassLibrary1.pdb
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.exe
+c:\users\wingsoflight\documents\visual studio 2013\Projects\WindowsFormsApplication3\CalculatorServer\obj\Debug\CalculatorServer.pdb
