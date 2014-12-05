@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\LAB 6\LAB 6\obj\Debug\LAB 6.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\LAB 6\LAB 6\bin\LAB 6.dll.config
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\LAB 6\LAB 6\bin\LAB 6.dll
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\LAB 6\LAB 6\bin\LAB 6.pdb
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\LAB 6\LAB 6\obj\Debug\LAB 6.dll
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\LAB 6\LAB 6\obj\Debug\LAB 6.pdb
