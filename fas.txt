@@ -1,0 +1,86 @@
+<html>
+<TITLE> STUDENTS DATABASE </title>
+
+
+
+<link rel="stylesheet" type="text/css" href="C:/Users/Administrator/Desktop/uni/HtmlНовый текстовый документ.css" />
+
+<h2><a class="t" href="form.html" >Calculation</a></h2>
+
+<body  bgcolor="#2F4F4F">
+
+
+<table class="style_1" >
+<tbody>
+<tr> <td width=150> <a href="/fas" 
+				title="Главная страница нашего сайта"> 
+				<font color="black">
+				Главная </font></a>
+     <td height=40>     
+	<td width=200> 
+
+<div>
+<object data="plain.txt" type="text/plain"
+width="100%" style="height: 10em">
+<a href="/reg">Регистрация</a>
+</object>
+</div>
+
+
+	<td width=200> <a href="/news"
+			title="News">
+			<font color="black">
+			News </font></a>
+			
+	<td width=200> <a href="/log"
+			title="Непредсказуемые звезды и стильные блоггершы">
+			<font color="black">
+			LOOK </font></a>
+	<td width=200> <a href="C:/Users/Administrator/Desktop/uni/Красота и здоровье.html"
+			title="Полезные советы">
+			<font color="black">
+			Красота и здоровье </font></a>
+	<td width=200> <a href="C:/Users/Administrator/Desktop/uni/Видео.html"
+			title="Интересное видео">
+			<font color="black">
+			Видео </font></a>
+	<td width=128>  <a href="C:/Users/Administrator/Desktop/uni/Контакты.html" 
+			title="Свяжитесь с нами"> 
+			<font color="black">
+			Контакты </font></a>
+			
+</td></td></td></td></td></td>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<form name="testform" method=post onSubmit="return testing(testform)" action="/calc">
+<div align="align-left">
+  <center>
+<table WIDTH=300 cellpadding=1 cellspacing=5>
+<tr>
+<td ALIGN=RIGHT WIDTH="360"><font face="Arial">Number:</font></td>
+<td WIDTH="100"><input NAME="firstname" SIZE=10></td>
+
+</tr>
+
+
+<tr>
+<td ALIGN=RIGHT WIDTH="50" colspan="1">
+<input type="submit" value="fibo" size=10>
+</tr>
+</table>
+
+  </center>
+  
+</div>
+
+
+
+<p> %content% </p>
+
+</body>
+
+</html>
